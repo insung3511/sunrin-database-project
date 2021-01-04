@@ -5,3 +5,4 @@
 일단 프론트엔드는 <a href="https://github.com/insung3511">제가</a>  맡았으며 백엔드와 데이터베이스는 <a href="https://github.com/recaedo">민기가</a>  진행하였습니다. __SHOUT OUT TO MINKI__ <br> <br>
 
 # Under __LIPS__ directory
+기본적으로 <a href="./index.php"> index.php </a> 로 접속을 하도록 되어 있습니다. 이는 저희가 따로 설정을 한 것은 없음.. ~~아니위오둔에서하는데존나붊퍼ㅏ잎멍;ㅑㅐㅁㅏㅍㅣ나러~~
